@@ -1,0 +1,34 @@
+[
+    {   
+    "gusto":"Dulce de leche granizado",
+    "descripcion":"dulde de leche con chispas de chocolate"
+},
+{
+    "gusto":"Sambayon",
+    "descripcion":"crema hecha a base de yema de huevo, azúcar y vino"
+},
+{
+    "gusto":"Chocolate amargo",
+    "descripcion":"chocolate amargo de la casa"
+},
+{
+    "gusto":"Frutos Rojos",
+    "descripcion":"frutillas frescas, cerezas y arándanos"
+},
+{
+    "gusto":" Mascarpone",
+    "descripcion":" Helado Casero de Queso Mascarpone"
+},
+{
+    "gusto":" Maracuya",
+    "descripcion":" Helado de maracuya veteado"
+},
+{
+    "gusto":" Tramontana",
+    "descripcion":" crema, mezcla de dulce de leche fresco con pedazos de galleta de chocolate."
+},
+{
+    "gusto":" Tiramisu",
+    "descripcion":"fantástica combinación de crema de mascarpone, café y cacao "
+}
+]
